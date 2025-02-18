@@ -2,8 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo  Werik Santos, tenho 21 anos e sou natural da Bahia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na RocketSeat. Sou apaixonado por tecnologia e compartilho meu conhecimento através dos meios de comunicações "[Werik Santos](https://www.linkedin.com/in/werik-anjos-a33b22317/)", onde faço minhas publicações e postagens de projetos,  "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
-
+Me chamo  Werik Santos, tenho 21 anos e sou natural da Bahia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na RocketSeat. Sou apaixonado por tecnologia e compartilho meu conhecimento através dos meios de comunicações "[Werik Santos](https://www.linkedin.com/in/werik-anjos-a33b22317/)", onde faço minhas publicações e postagens de projetos e compartilho minha vida sendo programador.
 ---
 
 ### 🤖 Linguagens e Tecnologias
